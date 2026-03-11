@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple Selector</title>
+<style> /* Element selector */
+p {
+color: blue;
+}
+/* ID Selector */
+#main {
+color : red;
+}
+/* Class Selector */
+.note {
+color: green;
+}
+/* Group Selector */
+h1, h2 {
+text-align: center;
+}
+/* Universal Selector */
+* {
+font-family: Arial;
+}
+</style>
+</head>
+<body>
+<h1 id = "main">CSS Selectors</h1>
+<h2>INTRODUCTION</h2>
+<p>SELECTOR FORMS.</p>
+<p Class="note">A CSS selector is used to select HTML elements so that we can apply styles(color, size, layout, etc.) to them.</p>
+</body>
+</html>
