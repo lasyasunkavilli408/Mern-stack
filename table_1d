@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>HTML Table</h2>
+<table>
+<table border="1">
+<tr>
+<th>Company</th>
+<th>Contact</th>
+<th>Location</th>
+</tr>
+<tr>
+<td>TCS</td>
+<td>Paddhu</td>
+<td>Hyderabad</td>
+</tr>
+<tr>
+<td>WIPRO</td>
+<td>Supriya</td>
+<td>Goa</td>
+</tr>
+<tr>
+<td>Amazon</td>
+<td>Shanmuka</td>
+<td>Singapore</td>
+</tr>
+<tr>
+<td>Filpcart</td>
+<td>Anu</td>
+<td>Bangalore</td>
+</tr>
+</table>
+</body>
+</html>
