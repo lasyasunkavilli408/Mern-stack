@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MY SAMPLE CODE</title>
+</head>
+<body>
+<!-- Header section -->
+<header>
+<h1>My 1st trail website</h1>
+<p>Welcome</p>
+</header>
+<! -- Navigation menu -->
+<nav>
+<a href="#">Home</a>
+<a href="#">Courses</a>
+<a href="#">Contact</a>
+</nav>
+<!-- Main content -->
+<main>
+<! -- Article -->
+<article>
+<p>
+HTML stands for
+<span>HyperText Markup Language</span>
+It is used to create web pages.
+</p>
+<! -- Figure -->
+<figure>
+<img src="C:\Users\PADMAVATHI\OneDrive\Pictures\Screenshots\Screenshot 2025-12-24 142712.png" alt="HTML Image" width="300">
+<figcaption>Figure:Sample HTML Images</figcaption>
+</figure>
+</article>
+</section>
+<!-- Aside content -->
+<aside>
+<h3>LET'S LEARN SOMETHING NEW</h3>
+<p>HTML5 TAGS</p>
+</aside>
+<!-- Div example -->
+<div>
+<p>Semantic Elements in HTML
+Many web sites contain HTML code to indicate navigation, header, and footer.</p>
+</div>
+</main>
+<!-- Footer-->
+<footer>
+<p>&copy;2026 My 1st trail website</p>
+</footer>
+</body>
+</html>
