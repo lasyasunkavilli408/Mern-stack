@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+let i=1;
+document.write("Using While Loop<br>");
+while(i<=10){
+document.write(i+" ");
+i++;
+}
+document.write("<br>");
+
+let j=1;
+document.write("Using do-while Loop<br>");
+do{
+document.write(j+" ");
+j++;
+}
+while(j<=10);
+document.write("<br>");
+
+document.write("Using for Loop<br>");
+for(let k=1;k<=10;k++){
+document.write(k+" ");
+}
+
+</script>
+</body>
+</html>
