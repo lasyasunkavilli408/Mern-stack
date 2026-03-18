@@ -10,7 +10,7 @@ function App() {
  return (
  <div>
  <h1>Sharing Data Between Components</h1>
- <Child name="Manikanta" course="ReactJS" />
+ <Child name="Lasya" course="ReactJS" />
  </div>
  );
 }
